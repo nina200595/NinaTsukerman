@@ -1,0 +1,99 @@
+Source,Type,Target,Weight
+Арамис,Undirected,Артаньян,5
+Арамис,Undirected,Атос,12
+Арамис,Undirected,Дюма,2
+Арамис,Undirected,Кардинал,1
+Арамис,Undirected,Констанция,3
+Арамис,Undirected,Мама,1
+Арамис,Undirected,Мать,1
+Арамис,Undirected,Миледи,2
+Арамис,Undirected,Мудло,2
+Арамис,Undirected,Новый Ангел,1
+Арамис,Undirected,Печальное известие,1
+Арамис,Undirected,Портос,12
+Арамис,Undirected,Рошфор,1
+Арамис,Undirected,Хмырь,1
+Арамис,Undirected,Чмырь,1
+Артаньян,Undirected,Атос,5
+Артаньян,Undirected,Врач,1
+Артаньян,Undirected,Дюма,2
+Артаньян,Undirected,Кардинал,2
+Артаньян,Undirected,Констанция,5
+Артаньян,Undirected,Мама,1
+Артаньян,Undirected,Мама ,1
+Артаньян,Undirected,Мент,1
+Артаньян,Undirected,Миледи,3
+Артаньян,Undirected,Мудло,3
+Артаньян,Undirected,Нищий,1
+Артаньян,Undirected,Новый Ангел,2
+Артаньян,Undirected,Отец,1
+Артаньян,Undirected,Печальное известие,1
+Артаньян,Undirected,Портос,5
+Артаньян,Undirected,Пырьев,1
+Артаньян,Undirected,Рошфор,5
+Артаньян,Undirected,Тетя Хася,1
+Артаньян,Undirected,Хмырь,1
+Артаньян,Undirected,Чмырь,1
+Атос,Undirected,Врач,2
+Атос,Undirected,Дюма,3
+Атос,Undirected,Змея,1
+Атос,Undirected,Кардинал,2
+Атос,Undirected,Констанция,2
+Атос,Undirected,Конь,1
+Атос,Undirected,Мама,1
+Атос,Undirected,Мать,1
+Атос,Undirected,Миледи,5
+Атос,Undirected,Мудло,3
+Атос,Undirected,Новый Ангел,1
+Атос,Undirected,Печальное известие,1
+Атос,Undirected,Портос,14
+Атос,Undirected,Фуй,1
+Бибер,Undirected,Кардинал,1
+Бибер,Undirected,Констанция,1
+Бибер,Undirected,Королева,2
+Бибер,Undirected,Король,1
+Врач,Undirected,Конь,1
+Врач,Undirected,Портос,1
+Врач,Undirected,Рошфор,1
+Дюма,Undirected,Констанция,1
+Дюма,Undirected,Миледи,1
+Дюма,Undirected,Мудло,2
+Дюма,Undirected,Портос,2
+Дюма,Undirected,Фуй,1
+Змея,Undirected,Миледи,1
+Кардинал,Undirected,Королева,3
+Кардинал,Undirected,Король,3
+Кардинал,Undirected,Миледи,1
+Кардинал,Undirected,Новый Ангел,1
+Кардинал,Undirected,Портос,2
+Констанция,Undirected,Королева,1
+Констанция,Undirected,Мама,1
+Констанция,Undirected,Мент,1
+Констанция,Undirected,Миледи,1
+Констанция,Undirected,Новый Ангел,1
+Констанция,Undirected,Портос,2
+Констанция,Undirected,Рошфор,1
+Конь,Undirected,Портос,1
+Королева,Undirected,Король,2
+Мама ,Undirected,Отец,1
+Мама ,Undirected,Тетя Хася,1
+Мама,Undirected,Портос,1
+Мать,Undirected,Портос,1
+Миледи,Undirected,Мудло,2
+Миледи,Undirected,Новый Ангел,2
+Миледи,Undirected,Портос,2
+Миледи,Undirected,Рошфор,1
+Миледи,Undirected,Фуй,1
+Мудло,Undirected,Нищий,1
+Мудло,Undirected,Новый Ангел,1
+Мудло,Undirected,Портос,2
+Мудло,Undirected,Фуй,1
+Новый Ангел,Undirected,Портос,1
+Отец,Undirected,Тетя Хася,1
+Печальное известие,Undirected,Портос,1
+Портос,Undirected,Рошфор,1
+Портос,Undirected,Хмырь,1
+Портос,Undirected,Чмырь,1
+Рошфор,Undirected,Хмырь,1
+Рошфор,Undirected,Чмырь,1
+Хмырь,Undirected,Чмырь,1
